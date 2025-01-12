@@ -1754,7 +1754,7 @@
     /* width: 59.686vw; */
     overflow: hidden;
     position: absolute;
-left: 10px;
+left: 50px;
     /* width: 50%; */
     /* border: 1px solid #ddd;
     border-radius: 8px;
@@ -1766,7 +1766,7 @@ left: 10px;
 .two .slider{
     position: relative;
     height: 40%;
-    width: 60%;
+    width: 40%;
     transform-style: preserve-3d;
     transform: perspective(1000px);
     animation: autoRun 25s linear infinite;

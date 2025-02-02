@@ -2001,9 +2001,9 @@ left: 0px;
         display: flex
 ;
         position: absolute;
-        top: 40px;
-        left: 40px;
-        width: 60%;
+        top: 10px;
+        left: 10px;
+        width: 80%;
     }
     
     .back {
